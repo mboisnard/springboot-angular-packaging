@@ -1,0 +1,4 @@
+rootProject.name = 'Spring Boot Angular'
+
+include 'spring-app'
+include 'angular-app'
